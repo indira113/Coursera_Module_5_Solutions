@@ -1,2 +1,1 @@
-# mod5sol
-Coursera module 5 solutions
+# Coursera Module 5 Solutions
